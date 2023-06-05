@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Xiaohan Ding is a Ph.D. in computer science in the [VT SAIL lab](https://sail.cs.vt.edu/) under the supervision of her advisor, [Eugenia Rho](https://eugeniarho.com/). His research interests include Computational Social Science, Computational Linguistics, Natural Language Processing.
+Xiaohan Ding is a Ph.D. in computer science in the [VT SAIL lab](https://sail.cs.vt.edu/) under the supervision of her advisor, [Eugenia Rho](https://eugeniarho.com/). His research interests include Computational Social Science, Computational Linguistics, and Natural Language Processing.
 {style="text-align: justify;"}
