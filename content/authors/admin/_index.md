@@ -36,7 +36,7 @@ education:
     - course: PhD in Computer Science
       institution: Virginia Tech
       year: 2021
-    - course: MS in Computer Science ()
+    - course: MS in Computer Science
       institution: George Mason University
       year: 2019
 
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaohan Ding is a Ph.D. in computer science in the VT SAIL lab under the supervision of her advisor: [Eugenia Rho](https://eugeniarho.com/). His research interests include Computational Social Science, Computational Linguistics, Natural Language Processing.
 {style="text-align: justify;"}
